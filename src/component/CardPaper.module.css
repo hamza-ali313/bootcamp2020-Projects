@@ -1,0 +1,12 @@
+.confirmed{
+    border-bottom:20px solid blue ;
+    margin:50px 10px
+}
+.recovered{
+    border-bottom:20px solid green;
+    margin: 50px 10px
+}
+.deaths{
+    border-bottom:20px solid red;
+    margin:50px 10px 
+}
